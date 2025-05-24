@@ -11,7 +11,7 @@ This is one of my most beloved projects. It was the first game I built, showcase
 ![Screenshot 2025-05-23 200206](https://github.com/user-attachments/assets/978e3f59-a001-4b77-b546-12483ef4e5ed)
 # Introduction 
 The game seeks to be an inmersive virtual reality game that matchs the most popular games horror and action but with a frenetic movement system that makes the game experience very authentic.
-you can see more on the [Undamned website](undamned.vercel.app)
+you can see more on the [Undamned website](https://undamned.vercel.app/)
 # Requirements
 ### Minimum aspects:
 - 8gb RAM
